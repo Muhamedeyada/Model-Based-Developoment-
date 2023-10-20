@@ -1,0 +1,13 @@
+Constant Block is the  role of it to generate a constant signal
+
+
+
+Sum Block is the  role of it to add or subtract input signals.
+
+Gain Block is the  role of it to  modify the amplitude of signals by multiplying them by a constant.
+
+
+Groduct Block is the  role of it to  multiply input signals.
+
+
+Display Block is the  role of it to  visualize results by displaying signals.
